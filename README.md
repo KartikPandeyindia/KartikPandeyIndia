@@ -1,4 +1,4 @@
-```markdown
+
 # Hi, I'm Kartik Pandey
 
 I am an M.Tech student in **Signal Processing and Machine Learning** at **NIT Jalandhar**, with a B.Tech background in **Electronics and Electrical Engineering**. My interests lie at the intersection of **data, algorithms, signals, and intelligent systems**.
@@ -41,4 +41,4 @@ The goal is not simply to collect repositories, but to demonstrate progression:
 > "My name is Ozymandias, King of Kings; Look on my Works, ye Mighty, and despair! Nothing beside remains. Round the decay Of that colossal Wreck, boundless and bare"
 >
 > — P. B. Shelley, *Ozymandias* (1818)
-```
+
