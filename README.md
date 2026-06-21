@@ -3,42 +3,30 @@
 
 I am an M.Tech student in *Signal Processing and Machine Learning* at *NIT Jalandhar*, with a B.Tech in *Electronics and Electrical Engineering*.
 
-I am preparing for a career in the *data field*, with interests in *data analysis*, *data engineering*, *machine learning*, and *mathematical problem solving*.
+I am preparing for a career in the *data field*, focusing on *data analysis*, *data engineering*, *machine learning*, and *mathematical problem solving*.
 
-#### Technical interests
+#### Interests
 
-- *Data Analysis* — extracting insights, visualization, and interpretation
-- *Data Engineering* — pipelines, data workflows, and structured systems
-- *Machine Learning* — building, evaluating, and understanding models
-- *Signal Processing* — time-series, signals, and applied mathematical systems
-- *Algorithms and DSA* — problem solving, optimization, and computational thinking
-- *Finance and Economics* — markets, systems, and quantitative reasoning
-- *Digital Systems* — electronics, architecture, and low-level computing
-- *Technical Writing* — notes, blogs, documentation, and learning archives
+My interests include *data analysis*, *data engineering*, and *machine learning*, particularly extracting insights, building data workflows, and developing models.
 
-#### Background
+I also enjoy *signal processing*, especially time-series analysis, mathematical systems, and signal-based modelling.
 
-My undergraduate studies introduced me to *Signals and Systems*, which sparked my interest in how information is represented, transformed, and analyzed.
+*Algorithms and data structures* interest me because of their emphasis on problem solving, optimization, and computational thinking.
 
-Over time, I developed strong interests in *DSA*, *Machine Learning*, and *Finance and Economics*. My postgraduate work now connects these areas through data-driven modelling, intelligent systems, and applied mathematical thinking.
+Beyond computing, I explore *finance and economics* for quantitative reasoning, *digital systems* for understanding low-level computing, and *technical writing* as a way to document ideas, organize knowledge, and share what I learn.
 
-I naturally enjoy theory, but I am deliberately training myself to build more. My current focus is to turn ideas into smaller, complete, documented projects.
+#### Current direction
 
-#### Direction
+I am naturally theory-oriented, but I am working on becoming a better builder through smaller, complete projects.
 
-I want GitHub to become a record of what I study, build, break, repair, and understand.
+The goal is to turn ideas into implementations, notes into usable references, and scattered curiosity into disciplined technical output.
 
-The goal is to show progression:
+#### Quote
 
-- From *concepts* to *systems*
-- From *notes* to *implementations*
-- From *curiosity* to *disciplined technical output*
-
-#### Closing thought
-
-> "My name is Ozymandias, King of Kings;
-> Look on my Works, ye Mighty, and despair!
-> Nothing beside remains. Round the decay
+> "My name is Ozymandias, King of Kings;\
+> Look on my Works, ye Mighty, and despair!\
+> Nothing beside remains. Round the decay\
 > Of that colossal Wreck, boundless and bare"
 >
 > — P. B. Shelley, *Ozymandias* (1818)
+
