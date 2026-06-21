@@ -15,11 +15,7 @@ I also enjoy *signal processing*, especially time-series analysis, mathematical 
 
 Beyond computing, I explore *finance and economics* for quantitative reasoning, *digital systems* for understanding low-level computing, and *technical writing* as a way to document ideas, organize knowledge, and share what I learn.
 
-#### Current direction
-
 I am naturally theory-oriented, but I am working on becoming a better builder through smaller, complete projects.
-
-The goal is to turn ideas into implementations, notes into usable references, and scattered curiosity into disciplined technical output.
 
 #### Quote
 
