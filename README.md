@@ -1,44 +1,41 @@
-
 # Hi, I'm Kartik Pandey
 
-I am an M.Tech student in **Signal Processing and Machine Learning** at **NIT Jalandhar**, with a B.Tech background in **Electronics and Electrical Engineering**. My interests lie at the intersection of **data, algorithms, signals, and intelligent systems**.
+I am an M.Tech student in *Signal Processing and Machine Learning* at *NIT Jalandhar*, with a B.Tech in *Electronics and Electrical Engineering*.
 
-I am currently preparing to start my career in the **data field**, with a strong focus on **data analysis, data engineering, machine learning, and mathematically grounded problem solving**.
+I am preparing for a career in the *data field*, with interests in *data analysis*, *data engineering*, *machine learning*, and *mathematical problem solving*.
 
 ## Technical Interests
 
-- **Data Analysis:** exploratory analysis, visualization, and extracting useful insights
-- **Data Engineering:** pipelines, structured datasets, and backend data workflows
-- **Machine Learning:** building models and understanding how algorithms learn from data
-- **Signal Processing:** time-series analysis and signal-based applications
-- **Algorithms & DSA:** problem solving, optimization, and computational thinking
-- **Finance & Economics:** systems, incentives, markets, and quantitative reasoning
-- **Digital Systems:** digital electronics, computer architecture, and low-level systems
-- **Technical Writing:** blogs, notes, and personal documentation
+- *Data Analysis:* extracting insights, visualizing patterns, and making data interpretable
+- *Data Engineering:* building pipelines, workflows, and structured data systems
+- *Machine Learning:* understanding models and applying them to practical problems
+- *Signal Processing:* working with signals, time-series data, and information representation
+- *Algorithms & DSA:* problem solving, optimization, and computational thinking
+- *Finance & Economics:* markets, systems, transactions, and quantitative reasoning
+- *Digital Systems:* electronics, computer architecture, and low-level systems
+- *Technical Writing:* notes, blogs, documentation, and structured learning artifacts
 
 ## Background
 
-I did my undergraduate studies in **Electronics and Electrical Engineering**, where I particularly enjoyed **Signals and Systems**. That course sparked my interest in understanding how information can be represented, transformed, and analyzed.
+My undergraduate studies introduced me to *Signals and Systems*, which shaped my interest in how information is represented, transformed, and analyzed.
 
-During college, I also got into **Data Structures & Algorithms (DSA)** and **Machine Learning**, and became fascinated by algorithms and their ability to solve complex problems systematically.
+Over time, I developed stronger interests in *DSA*, *Machine Learning*, and *Finance & Economics*. My postgraduate studies now help connect these areas through data-driven modelling, intelligent systems, and mathematical foundations.
 
-Outside engineering, I developed a strong interest in **Finance and Economics**. I find their principles especially useful because they appear across many real-world systems, from individual decision-making to large-scale markets and organizations.
-
-My postgraduate studies in **Signal Processing and Machine Learning** have helped connect these interests and strengthened my foundation in data-driven modelling and intelligent systems.
-
-I enjoy theory, but I am intentionally training myself to become a better builder by creating projects, documenting them clearly, and turning abstract ideas into practical systems.
+I enjoy theory, but I am actively training myself to build more. My current focus is to turn ideas into practical implementations, document them clearly, and improve through shipped projects.
 
 ## Direction
 
-I want my GitHub to become a living archive of what I study, build, break, repair, and understand.
+I want GitHub to become a record of what I study, build, break, repair, and understand.
 
-The goal is not simply to collect repositories, but to demonstrate progression:
+The goal is to show progression:
 
-- From **concepts** to **systems**
-- From **notes** to **implementations**
-- From **curiosity** to **disciplined technical output**
+- From *concepts* to *systems*
+- From *notes* to *implementations*
+- From *curiosity* to *disciplined technical output*
 
-> "My name is Ozymandias, King of Kings; Look on my Works, ye Mighty, and despair! Nothing beside remains. Round the decay Of that colossal Wreck, boundless and bare"
+> "My name is Ozymandias, King of Kings;
+> Look on my Works, ye Mighty, and despair!
+> Nothing beside remains. Round the decay
+> Of that colossal Wreck, boundless and bare"
 >
 > — P. B. Shelley, *Ozymandias* (1818)
-
