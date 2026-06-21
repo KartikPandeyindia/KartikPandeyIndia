@@ -2,8 +2,8 @@
 ### Hi, I'm Kartik Pandey
 
 Education:  
-*M.Tech (Signal Processing & Machine Learning), NIT Jalandhar*  
-*B.Tech (Electronics & Electrical Engineering), GGSIPU Delhi*  
+* M.Tech (Signal Processing & Machine Learning), NIT Jalandhar
+* B.Tech (Electronics & Electrical Engineering), GGSIPU Delhi
 Career trajectory: *data-centric problem solving and quantitative insights.*
 
 #### Interests
