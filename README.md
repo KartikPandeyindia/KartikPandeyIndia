@@ -10,7 +10,7 @@ Interests
 *Data* - extracting insights from data, designing data workflows, building reproducible pipelines, developing predictive models. \
 *Signal Processing* - time-series analysis, mathematical systems, signal representation, signal-based modelling. \
 *Algorithms & Data Structures* - optimization, computational thinking, abstraction, efficient problem solving. \
-*Finance and Economics* - quantitative reasoning, systems thinking, geopolitics. \
+*Finance and Economics* - quantitative reasoning, systems thinking. \
 *Knowledge Work* - technical writing, documentation, knowledge organization, synthesis and communication of ideas. 
 
 > "My name is Ozymandias, King of Kings;  
